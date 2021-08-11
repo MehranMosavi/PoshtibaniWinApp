@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PoshtibaniWinApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="salDoreh" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1400</Value>
+    </Setting>
+    <Setting Name="nimehDoreh" Type="System.String" Scope="User">
+      <Value Profile="(Default)">نیمه اول</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
